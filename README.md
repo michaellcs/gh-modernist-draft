@@ -1,14 +1,12 @@
-# Modernist Theme
+# come back later ..
 
-[Demo the Theme](http://orderedlist.github.com/modernist/)
+[Or go somewhere better](http://www.google.com/)
 
-This is the raw HTML and styles that are used for the *modernist* theme on [GitHub Pages](http://pages.github.com/).
+this is a draft
 
-# SCSS
+# TODO
 
-This project uses SCSS for it's CSS. If you want to contribute, please make your changes to the .scss files in the /sass directory. If you're unfamiliar with SCSS, here's [an excellent article to get you started](http://www.alistapart.com/articles/getting-started-with-sass/). I recommend using [LiveReload](http://livereload.com)
-
-Syntax highlighting is provided on GitHub Pages by [Pygments](http://pygments.org).
+init the draft
 
 # License
 
